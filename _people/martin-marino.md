@@ -6,7 +6,7 @@ role:
 - board
 sub_heading: Executive
 thumbnail: "/uploads/2017/11/14/joseph-gonzalez-399972.jpg"
-email: martin@belkirkcollege.com
+email: warren@pcs.com
 linkedin: ''
 layout: person
 

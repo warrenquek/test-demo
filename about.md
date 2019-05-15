@@ -5,8 +5,8 @@ banner_image: "/uploads/2018/02/17/college-building.jpg"
 heading: About PCS
 sub_heading: South bridge road
 layout: landing-page
-textline: A multidisciplinary centre of experts who are essential to patient-oriented
-  research.
+textline: We integrate and deliver effective, secure solutions to help our clients
+  fulfill security and operational objectives for citizens and nation
 publish_date: 2017-12-01T04:00:00.000+00:00
 show_staff: true
 menu:
